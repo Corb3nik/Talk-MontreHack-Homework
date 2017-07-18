@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /phpinfo.php
+Disallow: /readme.txt

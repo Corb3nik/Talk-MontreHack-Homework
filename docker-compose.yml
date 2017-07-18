@@ -1,0 +1,11 @@
+version: '2'
+services:
+  web:
+    build: ./challenge
+    ports:
+     - "31337:80"
+
+  opcache_helper:
+    build: ./opcache_helper
+    ports:
+      - "31338:80"
