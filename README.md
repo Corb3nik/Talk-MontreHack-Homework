@@ -13,5 +13,5 @@ The challenge is based on the work of FireSun. You can find the original challen
 2. `cd Talk-MontreHack-Homework`
 3. `docker-compose up`
 
-- Challenge : `http://localhost:31337`
-- OPcache generator : `http://localhost:31338`
+- Challenge : http://localhost:31337
+- OPcache generator : http://localhost:31338
