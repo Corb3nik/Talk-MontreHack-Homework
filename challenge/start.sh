@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Fix for mysql service
+chown -R mysql:mysql /var/lib/mysql
+
 # Start mysql service
 service mysql start
 
